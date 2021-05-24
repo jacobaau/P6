@@ -1,2 +1,2 @@
-P6BTC data hører til BTC R-fil for "Model 1"
-P6BTC2 data hører til BTCMODEL2 R-fil for "Model 2"
+The "P6BTC.csv" file corresponds to the EMH1.R, EMH3.R, Volatility1.R and Volatility3.R files.
+The "P6BTC.csv" file corresponds to the EMH2.R and Volatility2.R file.
